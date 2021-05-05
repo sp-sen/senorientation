@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">SEN Orientation courseware_Apr2021</langstring>
+          <langstring xml:lang="x-none">SEN Orientation courseware</langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,11 +50,11 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="SEN_Orientation_courseware_Apr2021_ORG">
-    <organization identifier="SEN_Orientation_courseware_Apr2021_ORG">
-      <title>SEN Orientation courseware_Apr2021</title>
+  <organizations default="SEN_Orientation_courseware_ORG">
+    <organization identifier="SEN_Orientation_courseware_ORG">
+      <title>SEN Orientation courseware</title>
       <item identifier="SEN_Orientation_courseware_SCO" isvisible="true" identifierref="__6qYFYEoljnU_course_id_RES">
-        <title>SEN Orientation courseware_Apr2021</title>
+        <title>SEN Orientation courseware</title>
       </item>
     </organization>
   </organizations>
@@ -223,7 +223,7 @@
       <file href="story_content/6WXwMZ1YZ1E_44100_48_0.mp3" />
       <file href="story_content/5yHjQd4Tq16_44100_48_0.mp3" />
       <file href="meta.xml" />
-      <file href="mobile/5zh9EHS9zRX.png" />
+      <file href="mobile/69PdborQw4c.png" />
       <file href="story_content/user.js" />
       <file href="story_content/external_files/005-as-frm-005-special-needs---application-for-special-arrangements-during-tests-and-exams.pdf" />
       <file href="story_content/external_files/Flowchart - Application for Special Arrangements during Tests and Exams_latest.pdf" />
