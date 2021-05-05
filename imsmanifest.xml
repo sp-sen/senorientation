@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">SEN Orientation courseware</langstring>
+          <langstring xml:lang="x-none">SEN Orientation</langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,11 +50,11 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="SEN_Orientation_courseware_ORG">
-    <organization identifier="SEN_Orientation_courseware_ORG">
-      <title>SEN Orientation courseware</title>
+  <organizations default="SEN_Orientation_ORG">
+    <organization identifier="SEN_Orientation_ORG">
+      <title>SEN Orientation</title>
       <item identifier="SEN_Orientation_courseware_SCO" isvisible="true" identifierref="__6qYFYEoljnU_course_id_RES">
-        <title>SEN Orientation courseware</title>
+        <title>SEN Orientation</title>
       </item>
     </organization>
   </organizations>
